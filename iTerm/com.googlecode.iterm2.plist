@@ -232,7 +232,7 @@
 	<key>NSFontPanelAttributes</key>
 	<string>1, 6</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Documents/dotfiles/iTerm2</string>
+	<string>~/Documents/dotfiles/iTerm</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -267,9 +267,9 @@
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>1751 214 796 473 1280 -280 1920 1057 </string>
+	<string>203 262 796 473 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1955 50 570 402 1280 -280 1920 1057 </string>
+	<string>355 188 570 402 0 0 1280 777 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1540,7 +1540,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/peilun/Documents/dotfiles/iTerm2</string>
+	<string>/Users/peilun/Documents/dotfiles/iTerm</string>
 	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
 	<key>SUEnableAutomaticChecks</key>
