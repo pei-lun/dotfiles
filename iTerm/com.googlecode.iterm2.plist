@@ -477,11 +477,11 @@
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>1281 286 796 473 1280 -280 1920 1057 </string>
+	<string>1281 -26 1016 512 1280 -280 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1955 48 570 402 1280 -280 1920 1080 </string>
+	<string>1955 48 570 402 1280 -280 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>1300 -149 570 402 1280 -280 1920 1057 </string>
+	<string>15 69 570 402 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>1548 -196 570 402 1280 -280 1920 1057 </string>
 	<key>New Bookmarks</key>
@@ -1419,13 +1419,6 @@
 					<key>Text</key>
 					<string>[1;6A</string>
 				</dict>
-				<key>0xf700-0x280000</key>
-				<dict>
-					<key>Action</key>
-					<integer>11</integer>
-					<key>Text</key>
-					<string>0x1b 0x1b 0x5b 0x41</string>
-				</dict>
 				<key>0xf701-0x220000</key>
 				<dict>
 					<key>Action</key>
@@ -1446,13 +1439,6 @@
 					<integer>10</integer>
 					<key>Text</key>
 					<string>[1;6B</string>
-				</dict>
-				<key>0xf701-0x280000</key>
-				<dict>
-					<key>Action</key>
-					<integer>11</integer>
-					<key>Text</key>
-					<string>0x1b 0x1b 0x5b 0x42</string>
 				</dict>
 				<key>0xf702-0x220000</key>
 				<dict>
@@ -1475,13 +1461,6 @@
 					<key>Text</key>
 					<string>[1;6D</string>
 				</dict>
-				<key>0xf702-0x280000</key>
-				<dict>
-					<key>Action</key>
-					<integer>11</integer>
-					<key>Text</key>
-					<string>0x1b 0x1b 0x5b 0x44</string>
-				</dict>
 				<key>0xf703-0x220000</key>
 				<dict>
 					<key>Action</key>
@@ -1502,13 +1481,6 @@
 					<integer>10</integer>
 					<key>Text</key>
 					<string>[1;6C</string>
-				</dict>
-				<key>0xf703-0x280000</key>
-				<dict>
-					<key>Action</key>
-					<integer>11</integer>
-					<key>Text</key>
-					<string>0x1b 0x1b 0x5b 0x43</string>
 				</dict>
 				<key>0xf704-0x20000</key>
 				<dict>
@@ -1715,7 +1687,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>D4FD8F3E-BC8C-4C3E-96C1-154D55352270</string>
 	<key>NoSyncLastTipTime</key>
-	<real>528443074.256347</real>
+	<real>528788416.19851702</real>
 	<key>NoSyncPermissionToShowTip</key>
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -1725,6 +1697,9 @@
 		<string>000</string>
 		<string>0000</string>
 		<string>0001</string>
+		<string>0002</string>
+		<string>0003</string>
+		<string>0004</string>
 	</array>
 	<key>PointerActions</key>
 	<dict>
@@ -1772,7 +1747,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-30T03:53:53Z</date>
+	<date>2017-10-04T05:40:16Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>iTerm Version</key>
