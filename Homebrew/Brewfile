@@ -1,0 +1,176 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-drivers"
+tap "homebrew/cask-eid"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "homebrew/science"
+tap "homebrew/services"
+tap "homebrew/versions"
+tap "tldr-pages/tldr"
+tap "vitorgalvao/tiny-scripts"
+brew "ack"
+brew "openssl"
+brew "sqlite"
+brew "python"
+brew "asciinema"
+brew "aws-shell"
+brew "awscli"
+brew "bat"
+brew "bmon"
+brew "ccat"
+brew "certbot"
+brew "cmatrix"
+brew "composer"
+brew "coreutils"
+brew "cowsay"
+brew "ctags"
+brew "curl"
+brew "dasht"
+brew "diff-so-fancy"
+brew "ffmpeg"
+brew "fortune"
+brew "fswatch"
+brew "fzf"
+brew "gmp"
+brew "pcre2"
+brew "git"
+brew "git-extras"
+brew "gitlab-runner"
+brew "python@2"
+brew "glances"
+brew "gnu-sed"
+brew "gopass"
+brew "gource"
+brew "highlight"
+brew "httpie"
+brew "httpstat"
+brew "hugo"
+brew "jq"
+brew "jsonpp"
+brew "lolcat"
+brew "make"
+brew "mas"
+brew "micro"
+brew "mongodb"
+brew "mongodb@3.2"
+brew "mycli"
+brew "mysql@5.6"
+brew "ncdu"
+brew "nnn"
+brew "opencc"
+brew "p7zip"
+brew "pandoc"
+brew "pkg-config"
+brew "postgresql"
+brew "prometheus"
+brew "pstree"
+brew "pyenv"
+brew "rclone"
+brew "rename"
+brew "rmlint"
+brew "rsync"
+brew "s3cmd"
+brew "shellcheck"
+brew "shfmt"
+brew "supervisor"
+brew "terraform"
+brew "tldr"
+brew "tmux"
+brew "translate-shell"
+brew "tree"
+brew "unrar"
+brew "vim"
+brew "watch"
+brew "yarn", args: ["without-node"]
+brew "you-get"
+brew "zeromq"
+brew "vitorgalvao/tiny-scripts/cask-repair"
+cask "apptrap"
+cask "boostnote"
+cask "brave"
+cask "cheatsheet"
+cask "coconutbattery"
+cask "cyberduck"
+cask "dbeaver-community"
+cask "docker"
+cask "duet"
+cask "etcher"
+cask "evernote"
+cask "font-ia-writer-duospace"
+cask "fork"
+cask "gitscout"
+cask "gitup"
+cask "goland"
+cask "google-backup-and-sync"
+cask "google-earth-pro"
+cask "iina"
+cask "insomnia"
+cask "itsycal"
+cask "java"
+cask "joplin"
+cask "kap"
+cask "keeweb"
+cask "keka"
+cask "keybase"
+cask "moedict"
+cask "mongodb-compass"
+cask "nally"
+cask "ngrok"
+cask "nosqlclient"
+cask "openshot-video-editor"
+cask "outline-manager"
+cask "qlcolorcode"
+cask "qlmarkdown"
+cask "qlstephen"
+cask "quicklook-csv"
+cask "quicklook-json"
+cask "simplenote"
+cask "soda-player"
+cask "steam"
+cask "tableplus"
+cask "the-unarchiver"
+cask "typora"
+cask "upterm"
+cask "visual-studio-code"
+cask "writefull"
+cask "yu-writer"
+mas "App Cleaner", id: 1013897218
+mas "Apple Configurator 2", id: 1037126344
+mas "Bear", id: 1091189122
+mas "Black Out", id: 1319884285
+mas "Cashew", id: 1126100185
+mas "Cleanbox", id: 1190617406
+mas "Cleaner for Xcode", id: 1296084683
+mas "Coinverter", id: 926121450
+mas "Fotor Photo Editor", id: 503039729
+mas "Helium", id: 1054607607
+mas "Image2Icon", id: 992115977
+mas "iMovie", id: 408981434
+mas "iTranslate", id: 884952790
+mas "Keka", id: 470158793
+mas "Keynote", id: 409183694
+mas "LINE", id: 539883307
+mas "LyricsX", id: 1254743014
+mas "Magnet", id: 441258766
+mas "MathStudio", id: 829912893
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Noizio", id: 928871589
+mas "Notebook", id: 1173152781
+mas "Numbers", id: 409203825
+mas "Outline", id: 1356178125
+mas "Pages", id: 409201541
+mas "Photo Eraser", id: 604756608
+mas "Photo Plus", id: 1190292165
+mas "QuickShade", id: 931571202
+mas "Quiver", id: 866773894
+mas "Recording Pro", id: 527675231
+mas "ScriptFlow", id: 994939623
+mas "SimpleMind Lite", id: 439654198
+mas "SketchBook", id: 863486266
+mas "Telegram Desktop", id: 946399090
+mas "TextNutSD", id: 1101674028
+mas "Things3", id: 904280696
+mas "Tweetbot", id: 1384080005
+mas "WonderPen", id: 1173437104
