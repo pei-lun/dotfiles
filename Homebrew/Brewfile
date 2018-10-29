@@ -1,3 +1,4 @@
+tap "cjbassi/gotop"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
@@ -53,12 +54,9 @@ brew "lolcat"
 brew "make"
 brew "mas"
 brew "micro"
-brew "mongodb"
-brew "mongodb@3.2"
 brew "mycli"
 brew "mysql@5.6"
 brew "ncdu"
-brew "nnn"
 brew "opencc"
 brew "p7zip"
 brew "pandoc"
@@ -86,6 +84,7 @@ brew "watch"
 brew "yarn", args: ["without-node"]
 brew "you-get"
 brew "zeromq"
+brew "cjbassi/gotop/gotop"
 brew "vitorgalvao/tiny-scripts/cask-repair"
 cask "apptrap"
 cask "boostnote"
@@ -138,7 +137,6 @@ cask "writefull"
 cask "yu-writer"
 mas "App Cleaner", id: 1013897218
 mas "Apple Configurator 2", id: 1037126344
-mas "Bear", id: 1091189122
 mas "Black Out", id: 1319884285
 mas "Cashew", id: 1126100185
 mas "Cleanbox", id: 1190617406
