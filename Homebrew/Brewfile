@@ -112,7 +112,6 @@ cask "joplin"
 cask "kap"
 cask "keeweb"
 cask "keka"
-cask "keybase"
 cask "moedict"
 cask "mongodb-compass"
 cask "nally"
@@ -133,6 +132,7 @@ cask "the-unarchiver"
 cask "typora"
 cask "upterm"
 cask "visual-studio-code"
+cask "whalebird"
 cask "writefull"
 cask "yu-writer"
 mas "App Cleaner", id: 1013897218
@@ -140,8 +140,8 @@ mas "Apple Configurator 2", id: 1037126344
 mas "Black Out", id: 1319884285
 mas "Cashew", id: 1126100185
 mas "Cleanbox", id: 1190617406
-mas "Cleaner for Xcode", id: 1296084683
 mas "Coinverter", id: 926121450
+mas "Fantastical 2", id: 975937182
 mas "Fotor Photo Editor", id: 503039729
 mas "Helium", id: 1054607607
 mas "Image2Icon", id: 992115977
