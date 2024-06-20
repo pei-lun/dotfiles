@@ -1,7 +1,10 @@
 autoload -Uz compinit
 # The completion module of Zim will call compinit later.
 
+#
 # Zim
+#
+
 ZIM_HOME=~/.zim
 # Download zimfw plugin manager if missing.
 if [[ ! -e ${ZIM_HOME}/zimfw.zsh ]]; then
@@ -14,10 +17,16 @@ fi
 # Initialize modules.
 source ${ZIM_HOME}/init.zsh
 
+#
 # Starship
+#
+
 eval "$(starship init zsh)"
 
-# pyenv
+#
+# Pyenv
+#
+
 export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
@@ -27,12 +36,18 @@ WORDCHARS=${WORDCHARS/\/}
 # Remove "-" from WORDCHARS
 WORDCHARS=${WORDCHARS/-}
 
+#
 # Enable iTerm2 shell integration
+#
+
 if [[ -e ${HOME}/.iterm2_shell_integration.zsh ]]; then
   source ${HOME}/.iterm2_shell_integration.zsh
 fi
 
+#
 # Aliases
+#
+
 alias cdiff="code --diff"
 alias gdiff="git diff --no-index"
 alias rm="rm -i"
