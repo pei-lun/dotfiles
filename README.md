@@ -1,5 +1,9 @@
 # dotfiles
 
+## Git
+
+- Run `git config --global core.excludesfile "$(pwd)"/Git/Global.gitignore`
+
 ## Homebrew
 
 - Install or upgrade all dependencies: `brew bundle install --file=Homebrew/Brewfile`
